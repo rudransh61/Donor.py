@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Campaign1",
+    "donations": [
+      {
+        "donor": "Donor1",
+        "amount": 94
+      }
+    ]
+  }
+]
