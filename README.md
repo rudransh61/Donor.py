@@ -10,3 +10,11 @@ This is a simple donation management system implemented in Python with AI recomm
  - With easy to use and minimal UI
  - Free and Open Source software
  - Built for people not for money ♥
+
+ # STAR this to show your support ♥
+
+# Demo Images
+![img1](img1.png)
+![img2](img2.png)
+![img3](img3.png)
+![img4](img4.png)
