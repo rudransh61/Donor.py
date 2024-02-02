@@ -88,7 +88,4 @@ Click get AI help and see the recommendation of AI in the blue terminal text.
 
 
 Demo :-
-<video controls width="300">
-
-  <source src="demo.mp4" type="video/mp4" />
-</video>
+Download `demo.mp4` to see complete demo with all feautures used
